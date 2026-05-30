@@ -65,6 +65,6 @@ L'ensemble de ces méthodologies est appliqué à une problématique concrète d
 ## 📂 Structure du Dépôt
 
 ```text
-├── "code R.R"             # Code R complet : graphiques, estimateurs (GEV, POT, Hill)
-├── "TER (1).pdf"          # Rapport final du TER (format PDF)
+├── "code 2.R"             # Code R complet : graphiques, estimateurs (GEV, POT, Hill)
+├── "TER.pdf"          # Rapport final du TER (format PDF)
 └── README.md              # Présentation générale du projet et résumé des résultats
